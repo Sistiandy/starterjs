@@ -1,2 +1,0 @@
-# starterjs
-ExpressJS template apps.
